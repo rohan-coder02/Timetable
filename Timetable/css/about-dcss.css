@@ -1,0 +1,77 @@
+.nav-col
+{
+  background-color:#4169E1;
+}
+body
+{
+  background: url(../image/bg6.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.but-col
+{
+  background-color: #FFFF66;
+}
+.but-col:hover
+{
+  background-color: #F0E68C;
+}
+.border
+{
+  padding:10px 15px;
+  margin:100px 10px;
+  margin-bottom: 10px;
+}
+.bg-col{
+  background-color: #4169E1;
+}
+.h1-bor{
+  border-bottom: 3px black solid;
+}
+.border-2
+{
+  padding:10px 15px;
+  margin:5px 10px;
+}
+.card-height{
+  height: 300px;
+}
+.dropdown-menu{
+  background-color: #4169E1;
+
+}
+
+.dropdown-item{
+
+  color:#FFFF66;
+}
+.dropdown-item:hover{
+  background-color: #6495ED;
+  color: #FFFF66;
+}
+.nav-item{
+  color:#FFFF66;
+}
+.nav-item:hover{
+  background-color: #6495ED;
+  color: #FFFF66;
+}
+.card-col{
+  color: #FFFF66;
+}
+.head-col{
+  background-color: #4169E1;
+}
+.rem{
+  padding-top: 7px;
+}
+.head
+{
+  margin-top: 30px;
+  color: #FFFF66;
+}
+.head2
+{
+  margin-top: 15px;
+  margin-left: 15px;
+  color: #FFFF00;
+}

@@ -1,0 +1,85 @@
+.nav-col
+{
+  background-color:#4169E1;
+
+}
+.navbar-default {
+    color: #FFFF66;
+
+}
+body
+{
+background: url(../image/bg6.jpg) no-repeat center center fixed;
+background-size: cover;
+}
+.but-col
+{
+  background-color: #FFFF66;
+}
+.but-col:hover
+{
+  background-color: #F0E68C;
+}
+#login-model .modal-dialog
+{
+  width: 200px;
+}
+#login-model input[type=text], input[type=password]
+{
+  margin-top: 10px;
+}
+#imlo
+{
+  max-width: 100px;
+  max-height: 100px;
+  margin: 0 auto;
+}
+.head
+{
+  margin-top: 30px;
+  color: #FFFF66;
+}
+.head2
+{
+  margin-top: 15px;
+  margin-left: 15px;
+  color: #FFFF00;
+}
+span{
+  font-size:15px;
+
+}
+
+.head-col{
+  background-color: #4169E1;
+}
+.cpad{
+  margin-top: 100px;
+  padding-left: 180px;
+
+}
+.bpad{
+  padding-left: 300px;
+}
+legend{
+  font-size: 40px;
+  padding-left: 300px;
+  color: #4169e1;
+}
+.control-label
+{
+  color: #4169e1;
+}
+.dropdown-menu{
+  background-color: #4169E1;
+
+}
+
+.dropdown-item{
+
+  color:#FFFF66;
+}
+.dropdown-item:hover{
+  background-color: #6495ED;
+  color: #FFFF66;
+}
